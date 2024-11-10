@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 number_of_completed_HW = 12
 number_of_hours_spent = 1.5
 course_title = 'Python'
